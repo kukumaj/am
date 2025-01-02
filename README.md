@@ -1,8 +1,8 @@
-<h2>#learning git</h2>
+<h1>#learning git AND Github</h1>
 <h3>#test</h3>
 
 
-<h1>testy</h1>
+<h4>testy</h4>
 
 
 
