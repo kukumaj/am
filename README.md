@@ -1,4 +1,4 @@
-<h1>#learning git AND Github</h1>
+##learning git AND Github
 <h2>#test</h2>
 <h4>testy</h4>
 
