@@ -1,7 +1,5 @@
 <h1>#learning git AND Github</h1>
-<h3>#test</h3>
-
-
+<h2>#test</h2>
 <h4>testy</h4>
 
 
